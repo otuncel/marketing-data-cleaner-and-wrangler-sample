@@ -25,3 +25,7 @@ This script automates the end-to-end data cleansing process for a marketing agen
    ```bash
    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/marketing-data-cleaner-and-wrangler-sample.git
    cd marketing-data-cleaner-and-wrangler-sample
+   pip install -r requirements.txt
+3. Run the cleaning script:
+```bash
+   python sample_data_cleaner.py
