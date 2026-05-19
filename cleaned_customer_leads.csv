@@ -1,0 +1,5 @@
+Customer_ID,Full_Name,Email,Phone,Registration_Date
+1002,John Doe,john.doe@mail.com,1234567890,2026-05-11
+1003,Alice Smith,,5559876543,2026-05-12
+1005,Bob Marley,bob@music.com,Pending Verification,2026-05-13
+1004,Oliver Smith,oliver@example.com,15551234567,2026-05-15
