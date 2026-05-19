@@ -21,11 +21,11 @@ This script automates the end-to-end data cleansing process for a marketing agen
 ## 🚀 Getting Started
 
 ### Installation & Execution
-1. Clone the repository:
+1. Clone the repository and install the dependencies:
    ```bash
    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/marketing-data-cleaner-and-wrangler-sample.git
    cd marketing-data-cleaner-and-wrangler-sample
    pip install -r requirements.txt
-3. Run the cleaning script:
+2. Run the cleaning script:
 ```bash
    python sample_data_cleaner.py
