@@ -1,4 +1,4 @@
-# AI-Ready Marketing Data Cleaner & Wrangler
+# CRM Ready Marketing Data Cleaner & Wrangler
 
 A production-ready Python data pipeline designed to clean, standardize, and deduplicate messy marketing lead datasets. This project demonstrates intermediate-to-advanced data wrangling techniques using Pandas and NumPy, transforming raw, high-variance human-input data into high-integrity structured profiles ready for CRM integration.
 
